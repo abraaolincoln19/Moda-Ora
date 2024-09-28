@@ -56,20 +56,23 @@ h2 {
     color: white;
 }
 
-.portfolio {
+.Portfolio {
     padding: var(--medium-default-padding) var(--large-default-padding);
     text-align: center;
+    color: #555;
+    
 }
 
-.portfolio h1 {
+.Portfolio h1 {
     font-size: 2.25em;
     color: #252525;
 }
 
-.portfolio p {
+.Portfolio p {
     font-size: 1em;
     line-height: 2;
     color: #555;
+
 }
 
 .gallery {
